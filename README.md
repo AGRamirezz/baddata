@@ -3,9 +3,16 @@
 Maria Teresa Parreira, Sukruth Gowdru Lingaraju, Adolfo Ramirez-Aristizabal, Manaswi Saha, Michael Kuniavsky, Wendy Ju
 
 
-You can read the paper here: (waiting reviews)
+You can read the paper [here](https://arxiv.org/abs/2403.06315)
 And cite is as:
-
+@misc{parreira2024study,
+      title={A Study on Domain Generalization for Failure Detection through Human Reactions in HRI}, 
+      author={Maria Teresa Parreira and Sukruth Gowdru Lingaraju and Adolfo Ramirez-Aristizabal and Manaswi Saha and Michael Kuniavsky and Wendy Ju},
+      year={2024},
+      eprint={2403.06315},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
 
 
 
