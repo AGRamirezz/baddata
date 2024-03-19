@@ -4,6 +4,7 @@ Maria Teresa Parreira, Sukruth Gowdru Lingaraju, Adolfo Ramirez-Aristizabal, Man
 
 
 You can read the paper [here](https://arxiv.org/abs/2403.06315)
+
 And cite is as:
 @misc{parreira2024study,
       title={A Study on Domain Generalization for Failure Detection through Human Reactions in HRI}, 
